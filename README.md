@@ -1,8 +1,7 @@
 # snackbar
 
-The project investigate a problem that appears when showing a Snackbar using context that does not contain a Scaffold
+The project shows how to fix a problem when Snackbar is shown from the same build function that returns Scaffold.
 
-## Getting Started
+<img alt='Screenshot' src='https://github.com/codeSamples123/SnackBar/blob/master/Snackbar%20-%20iPhone%20X.png' height='600px'/>
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img alt='Screenshot' src='https://github.com/codeSamples123/SnackBar/blob/master/Scaffold_exeption.png' height='200px'/>
